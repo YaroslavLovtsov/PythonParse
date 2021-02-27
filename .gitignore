@@ -167,3 +167,7 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 /.idea/
+/Lesson01/
+/Lesson02/
+/Lesson05/
+/Lesson06/instagram/spiders/insta_followers.py
